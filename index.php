@@ -28,6 +28,14 @@
 	    <div class="col-md-7"><textarea name=etiket id=etiket></textarea><span style="font-size:12px; color:red;">Lütfen etiketlerin arasına virgül koyunuz.</span></div></div>
 
 	<div class="card-footer"><button type="submit" class="btn btn-primary">Ekle</button></div>	
+
+
+
+	<table>
+		<tr>
+			<td>123</td>
+		</tr>
+	</table>
 		
 </div></div></form></div></div></div>
 </body>
